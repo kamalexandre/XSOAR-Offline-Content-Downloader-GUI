@@ -51,4 +51,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Okokon Akam - [your_email@domain.com](mailto:your_email@domain.com)
+https://x.com/kam_alexandre
